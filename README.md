@@ -1,2 +1,2 @@
 # weather
-Returns the weather information in the specified location
+Returns the weather information for the specified location
